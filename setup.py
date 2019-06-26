@@ -8,7 +8,7 @@ setup(
     author = 'Vishal Roy',
     author_email = 'hello@vishalroy.com',
     url = 'https://github.com/vishalroygeek/NeSleep',
-    download_url = '',
+    download_url = 'https://github.com/vishalroygeek/NeSleep/archive/1.0-beta.tar.gz',
     keywords = ['apple', 'sleep', 'lidsleep', 'command', 'terminal', 'mac', 'awake', 'avoid'],
     entry_points={
         'console_scripts': [
