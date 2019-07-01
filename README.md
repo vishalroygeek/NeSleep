@@ -1,14 +1,15 @@
 # NeSleep - Won't let your Mac sleep 😴
  
- NeSleep is a really simple command/library which you can use to disable the sleep mode on your Mac. By disabling the sleep mode on your Mac, you can let all the tasks ongoing even when your iMac screen is off or MacBook's lid is closed. It also comes in handy when you connect your MacBook to an external display, by letting you close the lid and still be able to use the external display.
+NeSleep is a really simple command/library which you can use to disable the sleep mode on your Mac. By disabling the sleep mode on your Mac, you can let all the tasks ongoing even when your iMac screen is off or MacBook's lid is closed. It also comes in handy when you connect your MacBook to an external display, by letting you close the lid and still be able to use the external display.
 
 ## Demo
 
 ![Farmers Market Finder Demo](https://github.com/vishalroygeek/NeSleep/blob/master/assets/nesleep-demo.gif)
  
 ## Installation
- 
-You can either fork this github repository, or can simply use PyPi via pip
+
+You can either fork this github repository, or can simply use PyPi via pip. Also, you can watch the video tutorial [here](https://www.youtube.com/watch?v=C_H_zE6X43g).
+
 ```
 $ pip install nesleep
 ```
