@@ -4,7 +4,7 @@ NeSleep is a really simple command/library which you can use to disable the slee
 
 ## Demo
 
-![Farmers Market Finder Demo](https://github.com/vishalroygeek/NeSleep/blob/master/assets/nesleep-demo.gif)
+![NeSleep Demo](https://github.com/vishalroygeek/NeSleep/blob/master/assets/nesleep-demo.gif)
  
 ## Installation
 
