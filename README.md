@@ -37,7 +37,7 @@ sleep(False)
 ```
 
 # LICENSE
-___
+
 ```
 Copyright (c) 2019 Vishal Roy
 
