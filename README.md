@@ -19,7 +19,7 @@ $ pip install nesleep
 Already mentioned above, NeSleep can be used directly from terminal, and can also be imported in your project. Once the installation is successful, follow the methods given below.
 
 ##### 1. Terminal
-You can simply call the command `nesleep 1` anywhere using a terminal to disable the sleep mode. And to re-enable it, call `nesleep 0`. Yes, its that simple 😉
+You can simply call the command `nesleep 1` anywhere using a terminal to disable the sleep mode. And to re-enable it, call `nesleep 0`. Yes, it's that simple 😉
 
 ##### 2. Project
 To use nesleep in project, first import sleep from nesleep.
