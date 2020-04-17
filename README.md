@@ -8,7 +8,7 @@ NeSleep is a really simple command/library which you can use to disable the slee
  
 ## Installation
 
-You can either fork this github repository, or can simply use PyPi via pip. Also, you can watch the video tutorial [here](https://www.youtube.com/watch?v=C_H_zE6X43g).
+You can either fork this github repository, or can simply use PyPi via pip.
 
 ```
 $ pip install nesleep
