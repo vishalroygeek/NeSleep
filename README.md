@@ -2,6 +2,8 @@
  
 NeSleep is a really simple command/library which you can use to disable the sleep mode on your Mac. By disabling the sleep mode on your Mac, you can let all the tasks ongoing even when your iMac screen is off or MacBook's lid is closed. It also comes in handy when you connect your MacBook to an external display, by letting you close the lid and still be able to use the external display.
 
+[GUI Version](https://vishalroygeek.gumroad.com/l/nesleep)
+
 ## Demo
 
 ![NeSleep Demo](https://github.com/vishalroygeek/NeSleep/blob/master/assets/nesleep-demo.gif)
